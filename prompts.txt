@@ -1,0 +1,5 @@
+1. Versión inicial
+"Construye un sitio presentando un notebook como producto: con nombre Notebook HP 250 G10, una zona para añadir las imagenes de este y una breve descripción"
+Crear la estructura base de la página
+útil como placeholder, interfaz poco atractiva, se mejorará en la siguiente etapa
+
