@@ -3,3 +3,7 @@
 Crear la estructura base de la página
 útil como placeholder, interfaz poco atractiva, se mejorará en la siguiente etapa
 
+2. Mejora visual
+"Añade interfaz minimalista con tonos blancos y negros en style.css y mejora la distribución del contenido. Usa las imagenes de la carpeta images en la zona Imágenes del Producto"
+Mejorar el diseño general del sitio
+bastante útil y apariencia moderna, se continuará trabajando en las características del producto
