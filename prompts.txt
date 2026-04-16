@@ -7,3 +7,8 @@ Crear la estructura base de la página
 "Añade interfaz minimalista con tonos blancos y negros en style.css y mejora la distribución del contenido. Usa las imagenes de la carpeta images en la zona Imágenes del Producto"
 Mejorar el diseño general del sitio
 bastante útil y apariencia moderna, se continuará trabajando en las características del producto
+
+3. Incorporación de contenido
+"Añade sección con características principales, sus beneficios y especificaciones técnicas"
+Se añadieron las especificaciones técnicas del producto y sus principales características
+Muy útil además se añadió una tabla de especificaciones haciendolo dando una apariencia más técnica
