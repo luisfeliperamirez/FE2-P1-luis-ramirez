@@ -103,3 +103,70 @@ header {
     background-color: #f0f0f0;
     font-weight: bold;
 }
+
+/* General styles for mobile devices */
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+
+    header {
+        padding: 0.5rem;
+    }
+
+    .container {
+        padding: 0.5rem;
+        margin: 1rem auto;
+    }
+
+    .product-images h2, .description h2, .features h2, .benefits h2, .specifications h2 {
+        font-size: 1.2rem;
+    }
+
+    .image-grid {
+        grid-template-columns: 1fr; /* Stack images in a single column */
+        gap: 10px;
+    }
+
+    .image-grid img {
+        width: 100%; /* Ensure images take full width */
+        height: auto;
+    }
+
+    .features ul {
+        padding-left: 1rem;
+    }
+
+    .specifications table {
+        font-size: 0.9rem;
+    }
+
+    .specifications th, .specifications td {
+        padding: 0.3rem;
+    }
+}
+
+/* Styles for very small devices (phones) */
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.5rem;
+    }
+
+    .product-images h2, .description h2, .features h2, .benefits h2, .specifications h2 {
+        font-size: 1rem;
+    }
+
+    .description p, .benefits p {
+        font-size: 1rem;
+        line-height: 1.4;
+    }
+
+    .specifications table {
+        display: block;
+        overflow-x: auto; /* Add horizontal scrolling for tables */
+    }
+
+    .specifications th, .specifications td {
+        white-space: nowrap; /* Prevent text wrapping in table cells */
+    }
+}

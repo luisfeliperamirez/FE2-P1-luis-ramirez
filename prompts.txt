@@ -12,3 +12,8 @@ bastante útil y apariencia moderna, se continuará trabajando en las caracterí
 "Añade sección con características principales, sus beneficios y especificaciones técnicas"
 Se añadieron las especificaciones técnicas del producto y sus principales características
 Muy útil además se añadió una tabla de especificaciones haciendolo dando una apariencia más técnica
+
+4. Adaptación a dispositivos móviles
+"Adapta el sitio para dispositivos móviles"
+Se añadió una sección en style.css para adaptar el sitio cuando se visite en dispositivos móviles permitiendo que el sitio se adapte a las pantallas pequeñas
+No se pudo testear su visualización desde un dispositivo móvil pero el contenido debería se capaz de verse correctamente y ser legible
